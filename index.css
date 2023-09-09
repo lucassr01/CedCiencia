@@ -58,6 +58,7 @@ h3{
     font-size: 40px;
 }
 
+
 .principal{
    padding-top: 50px;
    background-color: #cbe1ec;
@@ -96,4 +97,20 @@ footer img{
     width: 50px;
     border-radius: 2px;
 
+}
+
+.fotos{
+    display: inline-block;
+    background-color:#cbe1ec ;
+    width: 100%;
+
+}
+
+.fotos img{
+    display: inline-block;
+    object-fit: cover;
+    height: 360px;
+    width: 360px;
+    padding: 10px 10px;
+    border-radius: 3px;
 }
