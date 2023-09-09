@@ -57,9 +57,7 @@ h3{
     padding-left: 10px;
     font-size: 40px;
 }
-main{
-    margin-bottom: 100px;
-}
+
 .principal{
    padding-top: 50px;
    background-color: #cbe1ec;
@@ -80,6 +78,7 @@ main{
 
 .epi2{
     background-color: #cbe1ec;
+    padding-bottom: 100px;
 }
 
 
